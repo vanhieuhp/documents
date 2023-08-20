@@ -1,0 +1,107 @@
+note: 
+profile-image: https://test.cdn.culinarywonderland.com/photo/pr/profile_image.jpg
+image: "https://media.licdn.com/dms/image/D5603AQGa-0BnvwVOGw/profile-displayphoto-shrink_200_200/0/1688292525827?e="
+https://test.cdn.culinarywonderland.com/photo/pr/profile_image.jpg
+https://test.cdn.culinarywonderland.com/photo/ne/news_image.jpg
+Vanhieuit10@gmail.com
+Admin10@essme.com
+Hr@essme.com
+
+https://test.cdn.culinarywonderland.com/photo/pr/prawn_pad_thai_2_4488699.jpg
+mongorestore --host localhost:27017 --username=admin  --authenticationDatabase=admin --db essme /home/vanhieu/final-thesis/mongodb/essme/ 
+
+chuyen gia hoc thuat, gioi ve 1 linh vuc nao do
+- co mot so chung chi, muc tieu cua cac doanh nghiep
+- cac doanh nghiep se len web de tim kiem chuyen gia va booking chuyen gia
+- can help startup company to find employee
+- can use website to search, find and check expert
+
+muc tieu 1:
+- tach du lieu
+- bo sung them vao du lieu
+	+ bo sung khoang 100 chuyen gia (WORK)
+	+ thong tin ve chuyen gia: linkin
+		+ certificate
+		+ skill
+		+ experience
+	+ bang moi cach: nho ban be, thue, ...
+	+ dung cac nguon tai lieu khac deu duoc
+	+ luu y: 
+		+ ko duoc phep luu tru thong tin cua cac chuyen gia tren db cua minh
+		+ thiet ke he thong dang google, chi index du lieu
+		+ chi lua chon nhung thong tin co ban de luu tru, chi luu tru duong linh goc
+		+ khi truy cap thi access den duong linh day
+		+ dang metadata
+	+ you can use data from internet
+	+ can create data
+	+ image ( can use AI )
+	+ people is vietnamese
+
+muc tieu 2: fontend
+- convert fontend
+- use vue.js or use html
+
+muc tieu 3: tach data
+- chuyen gia lam viec cho linh vuc nao do ( it expert )
+- chuyen gia ve hoc thuat (acedemy expert)
+- create filter for them
+- go keyword -> search data -> print
+- python -> sort algothism -> search result will print expert result as decrease ( machine learning )
+- deploy api -> ( add data into api ) -> api implement -> return result
+
+muc tieu 4: expert can create and edit and delete profile
+
+muc tieu 5: build admin page ( fontend and backend )
++ CRUD for events, news, experts
++ create design for admin page ( dependen fontend )
+
+muc tieu 6:
++ search index like google
++ can save html into database
+
+I will comback after two weeks and report for teach
+
+7. create filebase ( open login )
+8. add data
+9. create type acedemic
+10. crawl more data, ( 1000 data )
+11. sort data on paper
+12. 
+
+cuoi thang 8: bao vệ
+liên hệ với Thầy qua zalo
+Làm việc với CÔ Thu: qua zalo
+
+create checkbox for search expert
+
+
+# Co thu
+1. phan tich tu khoa
+avatar: boolean
+sort expert_rank
+file expert
+
+2. filter by skills
+3. work-ex
+4. create advance search expert
+
+5. filter by research_area
+
+2 tuan: online
+
+21/7/2023
+- Show arrow in role of signup page ( done )
+- RSS
+- PROFILE update (done)
+- admin page  (in progress)
+- order expert
+- update filter (done)
+
+
+mongodump --host=localhost:27017 --username=admin  --authenticationDatabase=admin --forceTableScan --db essme -o /home/vanhieu/data/mongo/essme/29_07_03
+
+mongorestore --host=localhost:27017 --username=admin  --authenticationDatabase=admin --db essme /home/vanhieu/data/mongo/essme/29_07_03
+
+ESSME: expert search for small medium enterprises
+
+

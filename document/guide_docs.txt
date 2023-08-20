@@ -1,0 +1,46 @@
+Info bao ve do an:
+
+4 chuong:
+ chuong 1: Tổng quan, trinh bay bai toan, trinh bay luon cach tiep can cua em de giai quyet bai toan, cong nghe em se su dung, xuly thong tin, luu tru du lieu
+ - lam theo mot yeu cau cua cong ty viet search: Thay sẽ gui lai sau
+ - he thong do minh tu ngh: error 
+- yeu cau bai toan
+- neu ra cac doi tuong se su dung: 
+ + co quan, to chuc, cac bo nganh, cac doanh nghiep, dac biet la cac doanh nghiep vua va nho,
+  + cac doi tuong o trong to chuc se tham gia: nhan vien phong nhan su, trong truong hoc thi se can tim mot chuyen gia
+
+  - toi se su dung nhung kien truc nay de giai quyet bai toan, nhung cong nghe nay da duoc free, 
+  - su dung mongodb co loi ich gi cho du an
+  - ..
+ 
+ chuong 2: < phu thuoc vao ten de tai> phat trien he thong su dung cong nghe gi do, lien quan den cac cong nghe su dung. lam cho nguoi doc hieu va tu do co the xay dung duoc he thong <ly thuyet, thuat toan, cac cong nghe su dung>  ( Thay co cung khong quan tam nhieu )
+ - su dung java spring boot nhu the nao, firebase nhu nao, cac kien truc web,
+ - cac cai gi cam thay quan trong nhat
+ name: nen tang cong nghe xay dung va phat trien he thong
+
+Chuong 3: phan tich thiet ke he thong < gui cho Thay review, cho thay xem ki >, viet chuong so 1 -> 3 -> 2 -> 4 cang som cang tot
+
+- ngta se doc va hieu he thong nhu the nao => tu do ta co the xay dung duoc he thong, co so du lieu duoc xay dung nhu the nao
+
+- huong chuc nang or huong doi tuong ( bieu do use case, bieu do tuan tu)
+- co phan lien quan den thiet ke giao dien, interface, mo hinh nhu nao
+
+chuong 4: ket qua
+- trinh bay dua vao chuong so 1
+- vd: he thong sau nay hoat dong nhu the nao => mo ta cach thuc hoat dong, cach su dung o trong chuong 4 => danh gia chuc nang ( co giup duoc nguoi dung ko, ra ket qua nhung giao dien chua tot, giao dien chua tot tren dien thoai ) ( chi can nhan xet cam tinh )
+
+- chuong 1 co bao nhieu tinh nang, chuong 4 phai co tung day
+
+chuong 5: cuoi quyen: 
+ket luan: 
+- da lam duoc nhung gi,
+- chua lam duoc gi
+- huong phat trien ra sao
+- tai lieu tham khao 
+
+
+- hoi dong bao ve 1 ( 28 / 8 :
+- Thay Chung Tuan
+- Co Cao Huong, 
+- Co Quynh Mai
+ 
